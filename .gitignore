@@ -1,0 +1,6 @@
+node_modules/
+.env
+uploads/
+fotos_perfil/
+*.log
+.DS_Store
